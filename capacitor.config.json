@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "dev.over40.giflist",
   "appName": "giflist",
   "bundledWebRuntime": false,
   "npmClient": "npm",
